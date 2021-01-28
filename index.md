@@ -1,13 +1,13 @@
-## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Research](https://avenkatraman31.github.io/research.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.md)
+## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Research](https://avenkatraman31.github.io/research.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.html)
 ## Aditya Venkatraman
 
-<img src="https://AdityaVenkatraman.github.io/me13b102_V.Aditya.jpg" alt="Profile_Picture" style="width: 150px;"/>   
-5th Year Student, B.Tech(Hon) + M.Tech  
-Department of Mechanical Engineering,  
-Indian Institute of Technology Madras(IIT Madras),  
-Chennai, India-600036.  
-Email: v.adityamech2013@gmail.com  
-Institute email:me13b102@smail.iitm.ac.in  
+<img src="https://avenkatraman31.github.io/profile.png" alt="Profile_Picture" style="width: 150px;"/>   
+Graduate Research Assistant,  
+George W. Woodruff School of Mechanical Engineering,  
+Georgia Institute of Technology,  
+Atlanta, GA-600036.  
+Email: [mailto:v.adityamech2013@gmail.com]v.adityamech2013@gmail.com  
+Institute email: [mailto:adityav2018@gatech.edu]adityav2018@gatech.edu  
 
 ## About me    
 
