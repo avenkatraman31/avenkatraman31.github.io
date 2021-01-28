@@ -1,7 +1,3 @@
-
-
-
-
 ## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://avenkatraman31.github.io/research.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.md)
 
 ## RESEARCH
