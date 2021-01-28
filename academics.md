@@ -1,4 +1,4 @@
-## [Home](https://adityavenkatraman.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://adityavenkatraman.github.io/research.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://adityavenkatraman.github.io/academics.html)
+## [Home](https://adityavenkatraman.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://adityavenkatraman.github.io/research.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://adityavenkatraman.github.io/academics.md)
 
 ##Academics
 
