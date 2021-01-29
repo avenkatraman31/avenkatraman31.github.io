@@ -38,9 +38,10 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 <img src="https://avenkatraman31.github.io/damage.svg" 
 alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
 
-### Hydrogen embrittlement in martensitic stainless steels
-##### Advisor: Prof. Ratna Kumar Annabattula , Department of Mechanical Engineering, IIT Madras.    
+### Masters' thesis: Hydrogen embrittlement in martensitic stainless steels
+##### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
 
+My thesis involved the study of the effect of hydrogen on strength and toughness of metals. Specifically, I studied computationally the localization of plastic strain around crack-like defects in pre-cracked specimens by modeling the interaction of mechanics and hydrogen diffusion. The well known Hydrogen Enhanced Localized Plasticity (HELP) embrittlement mechanism was utilized to model the softening effect induced by hydrogen diffusion. These results are compared with analytical and experimental data for validation. To further illustrate the validity of HELP, we have developed a crystal plasticity model for hydrogen diffusion to study development of slip accumulation/dislocation pile-up near stress concentration zones. A parametric study is done to determine the orientation dependency of hydrogen diffusion, by varying the crystal lattice orientation w.r.t global axes. The results are shown to validate HELP mechanism for FCC metals.
 -------------------------------------------------------------------------------
 ### Effect of particle size and inter-particle spacing on dislocation behaviour in Ni-based super alloys
 ##### Advisor: Prof. Anand Krishna Kanjarla , Department of Metallurgical and Materials Engineering, IIT Madras.    
