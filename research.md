@@ -75,5 +75,5 @@ While precipitation hardening has been studied extensively using continuum mecha
 	</summary>
 	<img src="https://avenkatraman31.github.io/eps_1.PNG" 
 	 alt="boundary conditions" style="width: 400px;height: 400px;"/>
- 	<img src="https://avenkatraman31.github.io/eps_2.PNG" alt="Orowan Bowing" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avenkatraman31.github.io/sfault.JPG" alt="Stacking Fault" style="width: 400px;height: 400px;"/>
+ 	<img src="https://avenkatraman31.github.io/eps_2.PNG" alt="Orowan Bowing" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avenkatraman31.github.io/sfault.jpg" alt="Stacking Fault" style="width: 400px;height: 400px;"/>
 </details>
