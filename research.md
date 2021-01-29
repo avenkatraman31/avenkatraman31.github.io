@@ -18,8 +18,8 @@ We present a comprehensive framework for assessment of model parameter and model
 - Estimation of Model discrepancy and correlation to deformation micromechanisms
 
 ##### Publication: Bayesian Analysis of Parametric Uncertainties and Model Form Probabilities for two different Crystal Plasticity Models of Lamellar Grains in Titanium alloys
-<img src="https://avenkatraman31.github.io/lamellar.png" 
-alt="Workflow for the project" style="width: 400px;height: 400px;"/>
+<img src="https://avenkatraman31.github.io/lamellar.svg" 
+alt="Workflow for the project" style="width: 800px;height: 600px;"/>
 
 ### Modeling of Dynamic Recrystallization
 ##### Advisor: Prof. Yung Shin - _Donald A. and Nancy G. Roach Professor of Advanced Manufacturing_, Department of Mechanical Engineering, Purdue University
