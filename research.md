@@ -7,8 +7,8 @@ My research interests include:
 - Machine Learning 
 - Bayesian Calibration
 
-### Model parameter and Model form Uncertainty in `$\alpha + \beta$` Titanium alloys
-We present a comprehensive framework for assessment of model parameter and model form uncertainty for Crystal Plasticity Models that describe the effective mechanical response of  
+### Model parameter and Model form Uncertainty Quantification for Crystal Plasticity Models <img src="https://latex.codecogs.com/gif.latex?\alpha+\beta" /> Titanium alloys
+We present a comprehensive framework for assessment of model parameter and model form uncertainty for Crystal Plasticity Models that describe the effective mechanical response of the lamellar colonies of <img src="https://latex.codecogs.com/gif.latex?\alpha+\beta" /> Titanium alloys. This is motivated by the gaps that currently exist in the understanding of the effective constitutive response of the lamellar grains. The complex interactions between the slip processes in the α-laths and those in the neighboring β-matrix have not yet been modelled successfully using physics-based modeling approaches
 
 ### Modeling of Dynamic Recrystallization
 ##### Advisor: Prof. Yung Shin - _Donald A. and Nancy G. Roach Professor of Advanced Manufacturing_, Department of Mechanical Engineering, Purdue University
