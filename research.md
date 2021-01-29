@@ -56,11 +56,24 @@ alt="CTOD vs time illustrates Hydrogen induced degradation" style="width: 300px;
 alt="J vs CTOD illustrates lower ductile fracture resilience" style="width: 300px;height: 300px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
-### Effect of particle size and inter-particle spacing on dislocation behaviour in Ni-based super alloys
+### Effect of particle size and inter-particle spacing on dislocation behaviour in Ni-based super alloys using Molecular Dynamics
 ##### Advisor: Prof. Anand Krishna Kanjarla , Department of Metallurgical and Materials Engineering, IIT Madras.    
 
+<details>
+	<summary>
+		Description
+	</summary>
 Ni-based superalloys are very useful for high-temperature applications because of their strength retention capabilities and creep compliance. At moderate volume fractions, the shape of the precipitates (Ni3Al) is usually in the form of thin plate-like structures or cuboids when the fraction of the volume occupied by the precipitate is moderately high. The interaction of dislocations with precipitates can result in climb, bow-out (the so-called orowan bowing) or it could result in the shearing of the precipitate by the dislocation.    
 While precipitation hardening has been studied extensively using continuum mechanics, its underlying mechanism in the atomistic scale has not been investigated satisfactorily. The continuum assumption makes use of both long-range and short range forces (ie), those that arise from the intrinsic stress field associated with a screw/edge dislocation or those that arise from the interaction of the dislocation and the particle, which are in turn, thought to originate from the mismatch of the elastic properties between the matrix and precipitate phases. The short-range interactions were studied using the LAMMPS molecular dynamics package. The MD simulations have been done to simulate the effect of precipitate on matrix mechanical properties. The generation of stacking faults and misfits have been investigated and the subsequent strengthening effect has been explained reasonably well, within the confines of the simulation box, by plotting stress-strain response. The strength has been shown proportional to particle size and inter-particle distance. In addition, an estimate of the critical distance for precipitate shearing has been calculated. 
+</details>
 
-<img src="https://avenkatraman31.github.io/eps_1.PNG" 
- alt="boundary conditions" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avenkatraman31.github.io/eps_2.PNG" alt="Orowan Bowing" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avenkatraman31.github.io/sfault.JPG" alt="Stacking Fault" style="width: 400px;height: 400px;"/>
+##### Publication: [Effect of particle size and inter-particle spacing on dislocation behaviour of Nickel based super alloys](https://arxiv.org/abs/1707.04398)
+
+<details>
+	<summary>
+		Images
+	</summary>
+	<img src="https://avenkatraman31.github.io/eps_1.PNG" 
+	 alt="boundary conditions" style="width: 400px;height: 400px;"/>
+ 	<img src="https://avenkatraman31.github.io/eps_2.PNG" alt="Orowan Bowing" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avenkatraman31.github.io/sfault.JPG" alt="Stacking Fault" style="width: 400px;height: 400px;"/>
+</details>
