@@ -17,3 +17,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - ACADEMICS.md
   - RESEARCH.md
+classes: wide
