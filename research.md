@@ -36,7 +36,7 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 ##### Publication: [Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks](https://doi.org/10.1007/s11837-020-04387-y)
 
 <img src="https://avenkatraman31.github.io/damage.svg" 
-alt="Workflow for the project" style="width: 800px;height: 600px;"/>
+alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
 
 ### Hydrogen embrittlement in martensitic stainless steels
 ##### Advisor: Prof. Ratna Kumar Annabattula , Department of Mechanical Engineering, IIT Madras.    
