@@ -45,6 +45,7 @@ alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
 <summary>Description</summary>
 My thesis involved the study of the effect of hydrogen on strength and toughness of metals. Specifically, I studied the localization of plastic strain around crack-like defects in pre-cracked specimens by modeling the interaction between mechanics and hydrogen diffusion. The material strength was degraded progressively based on a Hydrogen concentration dependent softening expression (which is a key idea in Hydrogen Enhanced Localized Plasticity or HELP). The computational results are compared with analytical and experimental data for validation. To further illustrate the validity of HELP, we have developed a crystal plasticity model for hydrogen diffusion to study the slip accumulation/dislocation pile-up near stress concentration zones. A parametric study is done to determine the orientation dependency of hydrogen diffusion, by varying the crystal lattice orientation. The results are shown to reasonably validate the HELP micromechanism for FCC metals.
 </details>
+
 <details>
 	<summary>
 		Images
