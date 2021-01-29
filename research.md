@@ -10,12 +10,19 @@ My research interests include:
 ### Model parameter and Model form Uncertainty Quantification (UQ) for Crystal Plasticity Models for α+β Titanium alloys
 #### Advisor: Prof. Surya Kalidindi and Prof. David McDowell
 
+<details>
+<summary>
+#### Description
+
 We present a comprehensive framework for assessment of model parameter and model form uncertainty for Crystal Plasticity (CP) Models that describe the effective mechanical response of the lamellar colonies of  α+β Titanium alloys. This is motivated by the gaps that currently exist in the understanding of the effective constitutive response of the lamellar grains. This work involved
 - CP-FE simulations of spherical nanoindentation to estimate the nanoindentation Yield for different sets of material properties
 - Development of a Gaussian Process Regression (GPR) Surrogate Model for the Yield, as a function of the supplied material properties
 - Bayesian calibration of the CP models using MCMC sampling by probing the GPR model using different configurations of material properties to estimate their optimum along with UQ
 - Bayesian Model Selection for Model form Uncertainty Quantification 
 - Estimation of Model discrepancy and correlation to deformation micromechanisms
+
+</summary>
+</details>
 
 ##### Publication: Bayesian Analysis of Parametric Uncertainties and Model Form Probabilities for two different Crystal Plasticity Models of Lamellar Grains in Titanium alloys
 <img src="https://avenkatraman31.github.io/lamellar.svg" 
