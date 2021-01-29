@@ -21,6 +21,17 @@ We present a comprehensive framework for assessment of model parameter and model
 <img src="https://avenkatraman31.github.io/lamellar.svg" 
 alt="Workflow for the project" style="width: 600px;height: 400px;"/>
 
+### Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks
+#### Advisor: Prof. Surya Kalidindi
+#### Collaborator: [Dr. David Montes de Oca Zapiain](https://scholar.google.com/citations?user=fbthy5AAAAAJ&hl=en)
+
+In this paper, we explore the merits of the application of the VBI–NN approach for building ROMs to capture the quantitative correlations between the microstructure and its resistance to damage initiation. Specifically, we demonstrate the viability of formulating a VBI–NN–ROM (i.e., variational Bayesian inference-incorporated feedforward neural network-based reduced-order model) that is able to accurately capture and reflect the microstructure sensitivity of the resistance to damage initiation of dual-phase composites in a rigorous probabilistic framework. The VBI–NN–ROM is critically validated by suitable comparisons with FE-based ground-truth estimation for selected, digitally created RVEs.
+
+##### Publication: [Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks](https://doi.org/10.1007/s11837-020-04387-y)
+
+Snippets:
+
+
 ### Modeling of Dynamic Recrystallization
 ##### Advisor: Prof. Yung Shin - _Donald A. and Nancy G. Roach Professor of Advanced Manufacturing_, Department of Mechanical Engineering, Purdue University
 
