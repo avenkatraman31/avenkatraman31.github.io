@@ -39,7 +39,7 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
 
 ### Masters' thesis: Hydrogen embrittlement in martensitic stainless steels
-##### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
+#### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
 
 <details>
 <summary>Description</summary>
@@ -51,15 +51,15 @@ My thesis involved the study of the effect of hydrogen on strength and toughness
 		Images
 	</summary>
 <img src="https://avenkatraman31.github.io/hemb.JPG" 
-alt="Algorithm for modeling the interaction between mechanics and hydrogen diffusion" style="width: 1200px;height: 800px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="Algorithm for modeling the interaction between mechanics and hydrogen diffusion" style="width: 600px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/crack.JPG" 
-alt="Crack tip mesh in ABAQUS" style="width: 1200px;height: 800px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="Crack tip mesh in ABAQUS" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/ctodVsTime.JPG" 
-alt="CTOD vs time illustrates Hydrogen induced degradation" style="width: 1200px;height: 800px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="CTOD vs time illustrates Hydrogen induced degradation" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/JVsCtod.JPG" 
-alt="J vs CTOD illustrates lower ductile fracture resilience" style="width: 1200px;height: 800px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="J vs CTOD illustrates lower ductile fracture resilience" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
--------------------------------------------------------------------------------
+
 ### Effect of particle size and inter-particle spacing on dislocation behaviour in Ni-based super alloys
 ##### Advisor: Prof. Anand Krishna Kanjarla , Department of Metallurgical and Materials Engineering, IIT Madras.    
 
