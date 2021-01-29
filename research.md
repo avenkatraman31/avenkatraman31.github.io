@@ -11,9 +11,7 @@ My research interests include:
 #### Advisor: Prof. Surya Kalidindi and Prof. David McDowell
 
 <details>
-<summary>
-#### Description
-</summary>
+<summary>Description</summary>
 We present a comprehensive framework for assessment of model parameter and model form uncertainty for Crystal Plasticity (CP) Models that describe the effective mechanical response of the lamellar colonies of  α+β Titanium alloys. This is motivated by the gaps that currently exist in the understanding of the effective constitutive response of the lamellar grains. This work involved
 - CP-FE simulations of spherical nanoindentation to estimate the nanoindentation Yield for different sets of material properties
 - Development of a Gaussian Process Regression (GPR) Surrogate Model for the Yield, as a function of the supplied material properties
@@ -30,11 +28,12 @@ alt="Workflow for the project" style="width: 800px;height: 600px;"/>
 #### Advisor: Prof. Surya Kalidindi
 #### Collaborator: [Dr. David Montes de Oca Zapiain](https://scholar.google.com/citations?user=fbthy5AAAAAJ&hl=en)
 
+<details>
+<summary>Description</summary>
 In this paper, we explore the merits of the application of the VBI–NN approach for building ROMs to capture the quantitative correlations between the microstructure and its resistance to damage initiation. Specifically, we demonstrate the viability of formulating a VBI–NN–ROM (i.e., variational Bayesian inference-incorporated feedforward neural network-based reduced-order model) that is able to accurately capture and reflect the microstructure sensitivity of the resistance to damage initiation of dual-phase composites in a rigorous probabilistic framework. The VBI–NN–ROM is critically validated by suitable comparisons with FE-based ground-truth estimation for selected, digitally created RVEs.
+</details>
 
 ##### Publication: [Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks](https://doi.org/10.1007/s11837-020-04387-y)
-
-Snippets:
 
 <img src="https://avenkatraman31.github.io/damage.svg" 
 alt="Workflow for the project" style="width: 800px;height: 600px;"/>
