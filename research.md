@@ -31,6 +31,8 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 
 Snippets:
 
+<img src="https://avenkatraman31.github.io/Fig1a.eps" 
+alt="Workflow for the project" style="width: 600px;height: 400px;"/>
 
 ### Modeling of Dynamic Recrystallization
 ##### Advisor: Prof. Yung Shin - _Donald A. and Nancy G. Roach Professor of Advanced Manufacturing_, Department of Mechanical Engineering, Purdue University
