@@ -7,19 +7,19 @@ My research interests include:
 - Machine Learning 
 - Bayesian Calibration
 
-### Model parameter and Model form Uncertainty Quantification for Crystal Plasticity Models for α+β Titanium alloys
+### Model parameter and Model form Uncertainty Quantification (UQ) for Crystal Plasticity Models for α+β Titanium alloys
 #### Advisor: Prof. Surya Kalidindi and Prof. David McDowell
 
 We present a comprehensive framework for assessment of model parameter and model form uncertainty for Crystal Plasticity (CP) Models that describe the effective mechanical response of the lamellar colonies of  α+β Titanium alloys. This is motivated by the gaps that currently exist in the understanding of the effective constitutive response of the lamellar grains. This work involved
-- CP-FE simulations of spherical nanoindentation to estimate the nanoindentation Yield for varied material properties
-- Development of a Gaussian Process Regression (GPR) Surrogate Model for the Yield, as a function of the supplied
-- Bayesian calibration of the CP models by probing the GPR model using different configurations of material properties with MCMC sampling to estimate optimal values and uncertainty
+- CP-FE simulations of spherical nanoindentation to estimate the nanoindentation Yield for different sets of material properties
+- Development of a Gaussian Process Regression (GPR) Surrogate Model for the Yield, as a function of the supplied material properties
+- Bayesian calibration of the CP models using MCMC sampling by probing the GPR model using different configurations of material properties to estimate their optimum along with UQ
 - Bayesian Model Selection for Model form Uncertainty Quantification 
 - Estimation of Model discrepancy and correlation to deformation micromechanisms
 
 ##### Publication: Bayesian Analysis of Parametric Uncertainties and Model Form Probabilities for two different Crystal Plasticity Models of Lamellar Grains in Titanium alloys
 <img src="https://avenkatraman31.github.io/lamellar.svg" 
-alt="Workflow for the project" style="width: 800px;height: 600px;"/>
+alt="Workflow for the project" style="width: 600px;height: 400px;"/>
 
 ### Modeling of Dynamic Recrystallization
 ##### Advisor: Prof. Yung Shin - _Donald A. and Nancy G. Roach Professor of Advanced Manufacturing_, Department of Mechanical Engineering, Purdue University
