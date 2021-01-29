@@ -17,8 +17,17 @@ We present a comprehensive framework for assessment of model parameter and model
 </details>
 
 ##### Publication: Bayesian Analysis of Parametric Uncertainties and Model Form Probabilities for two different Crystal Plasticity Models of Lamellar Grains in Titanium alloys
-<img src="https://avenkatraman31.github.io/lamellar.svg" 
+<details>
+	<summary>
+		Workflow for the project
+	</summary>
+	<img src="https://avenkatraman31.github.io/lamellar.svg" 
 alt="Workflow for the project" style="width: 800px;height: 600px;"/>
+</details>
+
+<img src="https://avenkatraman31.github.io/lamellar2.svg" 
+alt="Workflow for the project" style="width: 800px;height: 600px;"/>
+
 
 ### Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks
 #### Advisor: Prof. Surya Kalidindi
