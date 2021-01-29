@@ -46,7 +46,7 @@ This project explores benefits of building a computationally low-cost surrogate 
 ##### Publication: [Texture-sensitive prediction of micro-spring performance using Gaussian process models calibrated to finite element simulations](https://doi.org/10.1016/j.matdes.2020.109198)
 
 <img src="https://avenkatraman31.github.io/microspring.jpg" 
-alt="Workflow for the project" style="width: 1600px;height: 800px;"/>
+alt="Workflow for the project" style="width: 1000px;height: 500px;"/>
 
 ### Masters' thesis: Hydrogen embrittlement in martensitic stainless steels
 #### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
