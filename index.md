@@ -6,12 +6,12 @@ Graduate Research Assistant,
 George W. Woodruff School of Mechanical Engineering,  
 Georgia Institute of Technology,  
 Atlanta, GA-600036.  
-Email : (mailto:v.adityamech2013@gmail.com)[v.adityamech2013@gmail.com]
-Work Email : (mailto:adityav2018@gatech.edu)[adityav2018@gatech.edu]  
+Email : [v.adityamech2013@gmail.com](mailto:v.adityamech2013@gmail.com)
+Work Email : [adityav2018@gatech.edu](mailto:adityav2018@gatech.edu)
 
 ## About me    
 
-I'm a third year Ph.D candidate in the George W. Woodruff School of Mechanical Engineering at Georiga Institute of Technology Atlanta. My advisor is (https://scholar.google.com/citations?hl=en&user=C2k6mYwAAAAJ&view_op=list_works&sortby=pubdate)[Prof. Surya Kalidindi]. My research interests are
+I'm a third year Ph.D candidate in the George W. Woodruff School of Mechanical Engineering at Georiga Institute of Technology Atlanta. My advisor is [Prof. Surya Kalidindi](https://scholar.google.com/citations?hl=en&user=C2k6mYwAAAAJ&view_op=list_works&sortby=pubdate). My research interests are
 - Crystal Plasticity and Molecular Dynamics
 - Uncertainty Quantification and Propagation, Verification, Validation
 - Machine Learning and Reduced Order Models
@@ -19,7 +19,7 @@ I'm a third year Ph.D candidate in the George W. Woodruff School of Mechanical E
 - Nanoindentation 
 
 My research broadly involves the development and deployment of novel Data Science and Uncertainty Quantification protocols for  accelerating Computational Materials Science investigations. The aim of my research is the development of efficient and accurate tools with the potential to aid materials and product design efforts.  My Ph.D thesis is titled "*Uncertainty Quantification, Verification and Validation and Hierarchical Uncertainty Propagation for - <img src="https://latex.codecogs.com/gif.latex?\alpha + \beta " />  Titanium alloys*". This works entails the development of a comprehensive Uncertainty Quantification framework for physics-based models of Polycrystalline Materials and multi-phase composites. Additionally, I have worked on the following projects during my doctoral candidacy: 
-- Identification of fatigue hot-spots in Ti-6Al-4V using Machine Learning and Crystal plasticity Finite Element Modeling (jointly advised by (https://scholar.google.com/citations?hl=en&user=mVYGZ2oAAAAJ&view_op=list_works&sortby=pubdate)[Dr. David McDowell] )
+- Identification of fatigue hot-spots in Ti-6Al-4V using Machine Learning and Crystal plasticity Finite Element Modeling (jointly advised by [Dr. David McDowell](https://scholar.google.com/citations?hl=en&user=mVYGZ2oAAAAJ&view_op=list_works&sortby=pubdate) )
  - Development of Reduced Order Models for Damage initiation in composites using Bayesian Neural Networks 
  - Microstructure sensitive surrogate model development and performance optimization of micro-spring constant using Gaussian Process Regression
 
