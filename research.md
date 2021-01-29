@@ -36,7 +36,7 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 ##### Publication: [Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks](https://doi.org/10.1007/s11837-020-04387-y)
 
 <img src="https://avenkatraman31.github.io/damage.svg" 
-alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
+alt="Workflow for the project" style="width: 1600px;height: 800px;"/>
 
 ### Masters' thesis: Hydrogen embrittlement in martensitic stainless steels
 #### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
@@ -51,7 +51,7 @@ My thesis involved the study of the effect of hydrogen on strength and toughness
 		Images
 	</summary>
 <img src="https://avenkatraman31.github.io/hemb.JPG" 
-alt="Algorithm for modeling the interaction between mechanics and hydrogen diffusion" style="width: 600px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="Algorithm for modeling the interaction between mechanics and hydrogen diffusion" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/crack.JPG" 
 alt="Crack tip mesh in ABAQUS" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/ctodVsTime.JPG" 
