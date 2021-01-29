@@ -1,4 +1,4 @@
-## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Research](https://avenkatraman31.github.io/research.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.md)
+## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Research](https://avenkatraman31.github.io/research.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.html)
 ## Aditya Venkatraman
 
 <img src="https://avenkatraman31.github.io/profile.png" alt="Profile_Picture" style="width: 150px;"/>   
