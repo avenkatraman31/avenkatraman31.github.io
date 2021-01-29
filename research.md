@@ -34,6 +34,20 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 <img src="https://avenkatraman31.github.io/damage.svg" 
 alt="Workflow for the project" style="width: 1600px;height: 800px;"/>
 
+### Texture-sensitive prediction of micro-spring performance using Gaussian process models calibrated to finite element simulations
+#### Advisor: Prof. Surya Kalidindi
+#### Collaborator: [Dr. David Montes de Oca Zapiain](https://scholar.google.com/citations?user=fbthy5AAAAAJ&hl=en)
+
+<details>
+<summary>Description</summary>
+This project explores benefits of building a computationally low-cost surrogate model relating the mechanical performance of micro-springs to crystallographic texture and single-crystal elastic constants. This task is accomplished by leveraging advances in (i) computationally-expensive finite element (FE) models that explicitly incorporates the constitutive response of individual grains in to simulate the overall mechanical response of the micro-spring, (ii) efficient parametrization of the extremely large space of textures using Fourier basis (i.e., generalized spherical harmonics), (iii) sequential design of FE simulations to maximize model fidelity while also minimizing the overall computational expense incurred in generating the data, and (iv) the use of Gaussian process models for incorporating uncertainty quantification into the development of the desired surrogate model. The strategy implemented in this work proved to be remarkably efficient in producing the desired surrogate model. The utility of the surrogate model established in this work is demonstrated with a case study addressing an inverse solution for the specific crystallographic texture that maximizes the micro-spring performance for a selected material, resulting in an 80% improvement.
+</details>
+
+##### Publication: [Texture-sensitive prediction of micro-spring performance using Gaussian process models calibrated to finite element simulations](https://doi.org/10.1016/j.matdes.2020.109198)
+
+<img src="https://avenkatraman31.github.io/microspring.jpg" 
+alt="Workflow for the project" style="width: 1600px;height: 800px;"/>
+
 ### Masters' thesis: Hydrogen embrittlement in martensitic stainless steels
 #### Advisor: [Prof. Ratna Kumar Annabattula](https://scholar.google.com/citations?hl=en&user=5oiU2GsAAAAJ&view_op=list_works&sortby=pubdate) , Department of Mechanical Engineering, IIT Madras.    
 
