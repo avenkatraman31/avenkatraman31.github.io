@@ -55,9 +55,9 @@ alt="Algorithm for modeling the interaction between mechanics and hydrogen diffu
 <img src="https://avenkatraman31.github.io/crack.JPG" 
 alt="Crack tip mesh in ABAQUS" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/ctodVsTime.JPG" 
-alt="CTOD vs time illustrates Hydrogen induced degradation" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="CTOD vs time illustrates Hydrogen induced degradation" style="width: 300px;height: 300px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avenkatraman31.github.io/JVsCtod.JPG" 
-alt="J vs CTOD illustrates lower ductile fracture resilience" style="width: 400px;height: 400px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+alt="J vs CTOD illustrates lower ductile fracture resilience" style="width: 300px;height: 300px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 ### Effect of particle size and inter-particle spacing on dislocation behaviour in Ni-based super alloys
