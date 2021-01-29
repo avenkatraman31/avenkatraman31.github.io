@@ -1,11 +1,13 @@
 ## [Home](https://avenkatraman31.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research](https://avenkatraman31.github.io/research.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Academics](https://avenkatraman31.github.io/academics.html)
 
 ## RESEARCH
-The areas that I'm interested in include:
-- Plasticity and fracture mechanics
-- Micromechanics  
-- Multi-scale modeling of materials 
-- Molecular Dynamics  
+My research interests include:
+- Crystal Plasticity and Molecular Dynamics
+- Uncertainty Quantification and Propagation, Verification, Validation
+- Machine Learning 
+- Bayesian Calibration
+
+### Model parameter and Model form Uncertainty in $\alpha + \beta$ Titanium alloys
 
 
 ### Modeling of Dynamic Recrystallization
