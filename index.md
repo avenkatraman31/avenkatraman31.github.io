@@ -6,8 +6,8 @@ Graduate Research Assistant,
 George W. Woodruff School of Mechanical Engineering,  
 Georgia Institute of Technology,  
 Atlanta, GA-600036.  
-Email: [mailto:v.adityamech2013@gmail.com]v.adityamech2013@gmail.com  
-Institute email: [mailto:adityav2018@gatech.edu]adityav2018@gatech.edu  
+:envelope: : v.adityamech2013@gmail.com  
+Institute :envelope: : [mailto:adityav2018@gatech.edu]adityav2018@gatech.edu  
 
 ## About me    
 
