@@ -18,3 +18,4 @@ include:
   - ACADEMICS.md
   - RESEARCH.md
 classes: wide
+padding: 1rem 0.5rem
