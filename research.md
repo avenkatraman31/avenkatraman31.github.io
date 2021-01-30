@@ -26,7 +26,7 @@ alt="Workflow for the project" style="width: 800px;height: 600px;"/>
 </details>
 
 <img src="https://avenkatraman31.github.io/lamellar2.svg" 
-alt="Workflow for the project" style="width: 800px;height: 600px;"/>
+alt="Workflow for the project" style="width: 1200px;height: 800px;"/>
 
 
 ### Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks
