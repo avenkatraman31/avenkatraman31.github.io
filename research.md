@@ -39,9 +39,13 @@ In this paper, we explore the merits of the application of the VBI–NN approach
 </details>
 
 ##### Publication: [Reduced-Order Models for Ranking Damage Initiation in Dual-Phase Composites Using Bayesian Neural Networks](https://doi.org/10.1007/s11837-020-04387-y)
-
+<details>
+	<summary>Workflow for the project</summary>
 <img src="https://avenkatraman31.github.io/damage.svg" 
 alt="Workflow for the project" style="width: 1600px;height: 800px;"/>
+</details>
+
+
 
 ### Texture-sensitive prediction of micro-spring performance using Gaussian process models calibrated to finite element simulations
 #### Advisor: Prof. Surya Kalidindi
